@@ -61,6 +61,7 @@ var definedTypes = [
   'PTR',
   'NAPTR',
   'TXT',
+  'CAA',
   'MX',
   'SRV',
   'SOA',
